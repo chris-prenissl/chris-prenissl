@@ -15,7 +15,7 @@
  📲 Android Development: Kotlin, Java, Material UI, Firebase, Jetpack, Unit-Tests  
  🛰️ CI/CD: Jenkins, Atlassian Suite, App-Distribution, Build Pipeline, Analytics  
  🔐 Backend: Springboot, Java, Kotlin, Firebase, relational databases  
- 📈 Unity: C#, Custom Editor Tooling  
+ 🎮 Unity: C#, Custom Editor Tooling  
  💬Teamwork: Scrum, multi professional team  
 
 ##### 🎓 Education:
