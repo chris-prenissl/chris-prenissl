@@ -21,4 +21,4 @@
 ##### 🎓 Education:
 🔹 Bachelor's Degree in Computer Science
 
-##### I am currently seeking new opportunities as a full-time Android Developer so I can contribute my expertise to your team. If you're interested, feel free to reach out to me!
+#####  Please feel free to contact me anytime if you want to get in touch:)
