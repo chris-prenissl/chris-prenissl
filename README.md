@@ -1,6 +1,8 @@
 #### 📱 Experienced Android Developer | Software Engineer | Team Player
 
-👋 Hello! I'm Chris, an passionate Android Developer.
+👋 Hello, I'm Chris:)
+
+My goal is to make exceptional mobile Apps with high emphasis on Android Development.
 
 ##### 💼 Professional Experience:
 🔹 Android Developer at Bertrandt
