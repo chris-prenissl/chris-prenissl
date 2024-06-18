@@ -1,28 +1,33 @@
-#### Android Developer | Software Engineer | Team Player
+#### Mobile Developer | Team Player | Japanese Food Lover
 
 👋 Hello, I'm Chris:)
 
-My goal is to make exceptional mobile Apps with high emphasis on Android Development.
+My goal is to make exceptional mobile Apps.
 
-##### Experience:
-🔹 Android Developer at Bertrandt  
-🔹 Android Development Internship at Continental  
-🔹 Unity Developer at Celrage  
-🔹 Hygiene Companion Android App as Bachelor Thesis for University Clinic of Regensburg
+#####💻  Experience:
+- Android Developer at Bertrandt  
+- Android Development Internship at Continental  
+- Unity Developer at Celrage  
+- Hygiene Companion Android App as Bachelor Thesis for University Clinic of Regensburg
 
-##### Tutoring:
-🔹 Mathematics 2 Tutor at OTH Regensburg  
-🔹 Programming Course Tutor at OTH Regensburg  
+#####👨‍🏫 Tutoring:
+- Mathematics 2 Tutor at OTH Regensburg  
+- Programming Course Tutor at OTH Regensburg  
 
-##### Key Skills:
- 📲 Android Development: Kotlin, Java  
- 📲 Mobile Development: Flutter, iOS  
- 🛰️ CI/CD: Jenkins, Atlassian Suite, App-Distribution, Analytics  
+#####👨‍🏫 Key Skills:
+ 🤖 _Android_: Kotlin, Java, Material UI, Jetpack Compose, Firebase
+ 🍎 _iOS_: Swift, SwiftUI
+ 🐥 _Flutter_: Flutter, iOS  
+ 🛰️ _CI/CD_: Jenkins, Atlassian Suite, App-Distribution, Analytics  
  🔐 Backend: Springboot, Java, Kotlin, Node  
- 🎮 Unity: C#, Custom Editor Tooling  
- 💬Teamwork: Scrum, multi professional team
+ 🎮 _Unity_: C#, Custom Editor Tooling  
+ 💬 _Teamwork_: Scrum, multi professional team
 
-##### 🎓 Education:
-🔹 Bachelor's Degree in Computer Science
+##### Education:
+- Bachelor's Degree in Computer Science
+- Nurse
+
+##### Projects:
+- [_Casual Chess_](https://github.com/chris-prenissl/casual_chess): Chess client for iOS (Swift, SwiftUI)
 
 ####  Please feel free to contact me anytime if you want to get in touch:)
