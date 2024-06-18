@@ -4,17 +4,17 @@
 
 My goal is to make exceptional mobile Apps.
 
-#####💻  Experience:
+##### ⭐️ Experience:
 - Android Developer at Bertrandt  
 - Android Development Internship at Continental  
 - Unity Developer at Celrage  
 - Hygiene Companion Android App as Bachelor Thesis for University Clinic of Regensburg
 
-#####👨‍🏫 Tutoring:
+##### 👨‍🏫 Tutoring:
 - Mathematics 2 Tutor at OTH Regensburg  
 - Programming Course Tutor at OTH Regensburg  
 
-#####👨‍🏫 Key Skills:
+##### 🔑 Key Skills:
  🤖 _Android_: Kotlin, Java, Material UI, Jetpack Compose, Firebase
  🍎 _iOS_: Swift, SwiftUI
  🐥 _Flutter_: Flutter, iOS  
@@ -23,11 +23,11 @@ My goal is to make exceptional mobile Apps.
  🎮 _Unity_: C#, Custom Editor Tooling  
  💬 _Teamwork_: Scrum, multi professional team
 
-##### Education:
+##### 🏛️ Education:
 - Bachelor's Degree in Computer Science
 - Nurse
 
-##### Projects:
+##### 💻 Projects:
 - [_Casual Chess_](https://github.com/chris-prenissl/casual_chess): Chess client for iOS (Swift, SwiftUI)
 
 ####  Please feel free to contact me anytime if you want to get in touch:)
