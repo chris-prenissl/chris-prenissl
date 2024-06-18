@@ -1,4 +1,4 @@
-#### Mobile Developer | Team Player | Japanese Food Lover
+#### Mobile Developer | Team Player | Japanese Food Enthusiast
 
 👋 Hello, I'm Chris:)
 
