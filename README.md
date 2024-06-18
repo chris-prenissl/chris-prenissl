@@ -5,7 +5,8 @@
 My goal is to make exceptional mobile Apps.
 
 ##### ⭐️ Experience:
-- Android Developer at Bertrandt  
+- Android Developer at Bertrandt
+- Flutter Developer at Bertrandt
 - Android Development Internship at Continental  
 - Unity Developer at Celrage  
 - Hygiene Companion Android App as Bachelor Thesis for University Clinic of Regensburg
