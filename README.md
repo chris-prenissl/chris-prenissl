@@ -1,6 +1,6 @@
 #### Mobile Developer | Team Player | Japanese Food Enthusiast
 
-👋 Hello, I'm Chris:)
+👋 Hello, I'm Christoph:)
 
 My goal is to make exceptional mobile Apps.
 
