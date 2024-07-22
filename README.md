@@ -29,6 +29,8 @@ My goal is to make exceptional mobile Apps.
 - Nurse
 
 ##### 💻 Projects:
+- [_Game Finder_](https://github.com/chris-prenissl/game_finder): Flutter application for iOS and Android that lets you search the IGDB library
+and mark your favorites.
 - [_Casual Chess_](https://github.com/chris-prenissl/casual_chess): Chess client for iOS (Swift, SwiftUI)
 
 ####  Please feel free to contact me anytime if you want to get in touch:)
