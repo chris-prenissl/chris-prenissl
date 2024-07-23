@@ -1,8 +1,6 @@
 #### Mobile Developer | Team Player | Japanese Food Enthusiast
 
-👋 Hello, I'm Christoph:)
-
-My goal is to make exceptional mobile Apps.
+👋 Hello! I'm Christoph, a passionate Mobile Developer with extensive expertise in software architecture. I thrive on tackling new challenges and staying up-to-date with the latest technologies. My greatest passion is creating modern mobile apps that deliver exceptional user experiences.
 
 ##### ⭐️ Experience:
 - Android Developer at Bertrandt
@@ -16,12 +14,12 @@ My goal is to make exceptional mobile Apps.
 - Programming Course Tutor at OTH Regensburg  
 
 ##### 🔑 Key Skills:
- 🤖 _Android_: Kotlin, Java, Material UI, Jetpack Compose, Firebase
+ 🤖 _Android_: Kotlin, Java, Android Automotive, Reactive Programming, Material UI, Firebase, Jetpack, Unit-Tests
  🍎 _iOS_: Swift, SwiftUI
- 🐥 _Flutter_: Flutter, iOS  
- 🛰️ _CI/CD_: Jenkins, Atlassian Suite, App-Distribution, Analytics  
- 🔐 Backend: Springboot, Java, Kotlin, Node  
- 🎮 _Unity_: C#, Custom Editor Tooling  
+ 🐥 _Flutter_: Dart, bloc, Firebase
+ 🛰️ _CI/CD_: Jenkins, Atlassian Suite, App-Distribution, Build Pipeline, Analytics
+ 🔐 Backend: Springboot, Java, Kotlin, Firebase,  relational databases
+ 🎮 _Unity_: C#, Custom Editor Tooling, Mobile Graphics Performance
  💬 _Teamwork_: Scrum, multi professional team
 
 ##### 🏛️ Education:
