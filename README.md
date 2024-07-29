@@ -27,7 +27,7 @@
 - Nurse
 
 ##### 💻 Projects:
-- [_Game Finder_](https://github.com/chris-prenissl/game_finder): _Flutter_ | _Dart_ | _gemini ai_ _bloc_ | _http_ | _hive_ | _go_router_
+- [_Game Finder_](https://github.com/chris-prenissl/game_finder): _Flutter_ | _Dart_ | _gemini ai_ | _bloc_ | _http_ | _hive_ | _go_router_
 - [_Casual Chess_](https://github.com/chris-prenissl/casual_chess): _Xcode_ | _Swift_ | _SwiftUI_
 
 ####  Please feel free to contact me anytime if you want to get in touch:)
