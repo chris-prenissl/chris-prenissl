@@ -14,13 +14,13 @@
 - Programming Course Tutor at OTH Regensburg 
 
 ##### 🔑 Key Skills:
- 🤖 _Android_: Kotlin, Java, Android Automotive, Reactive Programming, Material UI, Firebase, Jetpack, Unit-Tests 
- 🍎 _iOS_: Swift, SwiftUI 
- 🐥 _Flutter_: Dart, bloc, Firebase 
- 🛰️ _CI/CD_: Jenkins, Atlassian Suite, App-Distribution, Build Pipeline, Analytics 
- 🔐 Backend: Springboot, Java, Kotlin, Firebase,  relational databases 
- 🎮 _Unity_: C#, Custom Editor Tooling, Mobile Graphics Performance 
- 💬 _Teamwork_: Scrum, multi professional team 
+ 🤖 _Android_: Kotlin, Java, Android Automotive, Reactive Programming, Material UI, Firebase, Jetpack, Unit-Tests<br>
+ 🍎 _iOS_: Swift, SwiftUI<br>
+ 🐥 _Flutter_: Dart, bloc, Firebase<br>
+ 🛰️ _CI/CD_: Jenkins, Atlassian Suite, App-Distribution, Build Pipeline, Analytics<br>
+ 🔐 Backend: Springboot, Java, Kotlin, Firebase,  relational databases<br>
+ 🎮 _Unity_: C#, Custom Editor Tooling, Mobile Graphics Performance<br>
+ 💬 _Teamwork_: Scrum, multi professional team<br>
 
 ##### 🏛️ Education:
 - Bachelor's Degree in Computer Science 
