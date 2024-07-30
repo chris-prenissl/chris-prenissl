@@ -35,6 +35,8 @@
 - [_Lasagne Dinner_](https://github.com/chris-prenissl/LasagneDinner): _Kotlin Multiplatform_ | _Android_ | _Java_ | _Kotlin_ | _iOS_ | _Koin_ | _Compose Multiplatform_ 
 - [_Car Kotlin Multiplatform Template_](https://github.com/chris-prenissl/carkmm): _Kotlin_ | _KMM_ | _Android for Cars - CarAppLibrary_ 
 
-###### Other
+###### Games
+- [_Root Expansion_](https://github.com/chris-prenissl/root-expansion): _Godot_ | _GDScript_ | 2D
+- _Project Traverse_: _Godot_ | _GDScript | 3D
 
 ####  Please feel free to contact me anytime if you want to get in touch:)
