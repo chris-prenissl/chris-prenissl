@@ -27,9 +27,13 @@
 - Nurse 
 
 ##### 💻 Projects:
+
+###### Mobile
 - [_Game Finder_](https://github.com/chris-prenissl/game_finder): _Flutter_ | _Dart_ | _gemini ai_ | _bloc_ | _http_ | _hive_ | _go_router_ 
 - [_Casual Chess_](https://github.com/chris-prenissl/casual_chess): _Xcode_ | _Swift_ | _SwiftUI_ 
-- [_Dot For You_](https://github.com/chris-prenissl/dot-for-you): _TypeScript_ | _Nuxt_ | _Tailwind_ | _Swiper_ 
+- [_Dot For You_](https://github.com/chris-prenissl/dot-for-you): _TypeScript_ | _Nuxt_ | _Tailwind_ | _Swiper_
 - [_Car Kotlin Multiplatform Template_](https://github.com/chris-prenissl/carkmm): _Kotlin_ | _KMM_ | _Android for Cars - CarAppLibrary_ 
+
+###### Other
 
 ####  Please feel free to contact me anytime if you want to get in touch:)
