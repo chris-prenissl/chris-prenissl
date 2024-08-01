@@ -31,7 +31,6 @@
 ###### Mobile
 - [_Game Finder_](https://github.com/chris-prenissl/game_finder): _Flutter_ | _Dart_ | _gemini ai_ | _bloc_ | _http_ | _hive_ | _go_router_ 
 - [_Casual Chess_](https://github.com/chris-prenissl/casual_chess): _Xcode_ | _Swift_ | _SwiftUI_ 
-- [_Dot For You_](https://github.com/chris-prenissl/dot-for-you): _TypeScript_ | _Nuxt_ | _Tailwind_ | _Swiper_
 - [_Lasagne Dinner_](https://github.com/chris-prenissl/LasagneDinner): _Kotlin Multiplatform_ | _Android_ | _Java_ | _Kotlin_ | _iOS_ | _Koin_ | _Compose Multiplatform_ 
 - [_Car Kotlin Multiplatform Template_](https://github.com/chris-prenissl/carkmm): _Kotlin_ | _KMM_ | _Android for Cars - CarAppLibrary_ 
 
@@ -40,5 +39,9 @@
 - [_Game Engine_](https://github.com/chris-prenissl/Game-Engine-Tutorial): _Swift_ | _Metal_ | _Graphics Pipeline_ | 3D
 - [_ExtendedEditorToolbar_](https://github.com/chris-prenissl/ExtendedEditorToolbar): _Unity_ | C# | Reflections | EditorTooling
 - [_Root Expansion_](https://github.com/chris-prenissl/root-expansion): _Godot_ | _GDScript_ | 2D
+
+###### Other
+- [_Dot For You_](https://github.com/chris-prenissl/dot-for-you): _TypeScript_ | _Nuxt_ | _Tailwind_ | _Swiper_
+
 
 ####  Please feel free to contact me anytime if you want to get in touch:)
