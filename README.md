@@ -37,7 +37,7 @@
 
 ###### Game
 - _Project Traverse_: _Godot_ | _GDScript | 3D
-- [_Game Engine_](https://github.com/chris-prenissl/Game-Engine-Tutorial): _Swift_ | _Metal_ | _Graphics Pipeline_ | 3D
+- [_Game Engine_](https://github.com/chris-prenissl/Game-Engine-Tutorial): _Swift_ | _Metal_ | _Render Pipeline_ | 3D
 - [_ExtendedEditorToolbar_](https://github.com/chris-prenissl/ExtendedEditorToolbar): _Unity_ | C# | Reflections | EditorTooling
 - [_Root Expansion_](https://github.com/chris-prenissl/root-expansion): _Godot_ | _GDScript_ | 2D
 
