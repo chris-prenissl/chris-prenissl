@@ -32,6 +32,7 @@
 - [_Game Finder_](https://github.com/chris-prenissl/game_finder): _Flutter_ | _Dart_ | _gemini ai_ | _bloc_ | _http_ | _hive_ | _go_router_ 
 - [_Casual Chess_](https://github.com/chris-prenissl/casual_chess): _Xcode_ | _Swift_ | _SwiftUI_ 
 - [_Lasagne Dinner_](https://github.com/chris-prenissl/LasagneDinner): _Kotlin Multiplatform_ | _Android_ | _Java_ | _Kotlin_ | _iOS_ | _Koin_ | _Compose Multiplatform_ | _Google PlayStore_
+- [_UDP Chat_](https://github.com/chris-prenissl/udp-chat): _Android_ | _Kotlin_ | _Jetpack Compose_ | _Flow_ | _udp_
 - [_Car Kotlin Multiplatform Template_](https://github.com/chris-prenissl/carkmm): _Kotlin_ | _KMM_ | _Android for Cars - CarAppLibrary_ 
 
 ###### Game
