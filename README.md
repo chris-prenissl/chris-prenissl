@@ -29,7 +29,8 @@
 ##### 💻 Projects:
 
 ###### Mobile
-- [_Game Finder_](https://github.com/chris-prenissl/game_finder): _Flutter_ | _Dart_ | _gemini ai_ | _bloc_ | _http_ | _hive_ | _go_router_ 
+- [_Game Finder_](https://github.com/chris-prenissl/game_finder): _Flutter_ | _Dart_ | _gemini ai_ | _bloc_ | _http_ | _hive_ | _go_router_
+- [_Hygiene Lab Companion_](https://github.com/chris-prenissl/hygiene-lab-companion): _Android_ | _Jetpack Compose_ | _Firebase App Distribution_ | _FireStore_ | _adaptive layouts_
 - [_Casual Chess_](https://github.com/chris-prenissl/casual_chess): _Xcode_ | _Swift_ | _SwiftUI_ 
 - [_Lasagne Dinner_](https://github.com/chris-prenissl/LasagneDinner): _Kotlin Multiplatform_ | _Android_ | _Java_ | _Kotlin_ | _iOS_ | _Koin_ | _Compose Multiplatform_ | _Google PlayStore_
 - [_UDP Chat_](https://github.com/chris-prenissl/udp-chat): _Android_ | _Kotlin_ | _Jetpack Compose_ | _Flow_ | _udp_
