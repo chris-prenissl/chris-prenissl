@@ -44,6 +44,6 @@
 
 ###### Other
 - [_Dot For You_](https://github.com/chris-prenissl/dot-for-you): _TypeScript_ | _Nuxt_ | _Tailwind_ | _Swiper_
-
+- [_Blog_](https://github.com/chris-prenissl/chris-prenissl.github.io): _Jekyll_
 
 ####  Please feel free to contact me anytime if you want to get in touch:)
