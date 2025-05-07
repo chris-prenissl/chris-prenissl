@@ -3,6 +3,7 @@
 👋 Hello! I'm Christoph, a passionate Mobile Developer with extensive expertise in software architecture. I thrive on tackling new challenges and staying up-to-date with the latest technologies. My greatest passion is creating modern mobile apps that deliver exceptional user experiences.
 
 ##### ⭐️ Experience:
+- Flutter Developer at Wertgarantie
 - Android Developer at Bertrandt 
 - Flutter Developer at Bertrandt 
 - Android Development Internship at Continental 
